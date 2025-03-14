@@ -216,11 +216,10 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   var tweet = document.createElement("a");
   tweet.classList.add("twitter-share-button");
   tweet.setAttribute("href", "https://twitter.com/share");
-  tweet.setAttribute("data-via", "30");
+  tweet.setAttribute("data-via", "TheReal304");
   tweet.textContent = "Tweet";
 
-  var text = "I spawned " + this.score + " this many tiles on 30, a game where you " +
-             "see alts! #advyout";
+  var text = "#advyout";
   tweet.setAttribute("data-text", text);
 
   return tweet;
