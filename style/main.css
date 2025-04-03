@@ -784,16 +784,20 @@ hr {
     background-size: 100% auto; }
   .tile.tile-81 .tile-inner {
     color: #5bf140;
-    background: #0f146b; }
+    background: #0f146b; 
+    font-size: 30px; }
   .tile.tile-82 .tile-inner {
     color: #d8bca3;
-    background: #b69577; }
+    background: #b69577; 
+    font-size: 30px; }
   .tile.tile-83 .tile-inner {
     color: #f3c036;
-    background: #08762e; }
+    background: #08762e; 
+    font-size: 30px; }
   .tile.tile-84 .tile-inner {
     color: #358e21;
-    background: #b4c465; }
+    background: #b4c465; 
+    font-size: 30px; }
 
 @-webkit-keyframes appear {
   0% {
